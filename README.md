@@ -30,33 +30,20 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
       <a href="#rufatshikhiyev">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./img/typescript-original.svg" width="48" height="48" alt="Python" />
       </a>
-      <br>TypeScript
+      <br>Python
     </td>
     <td align="center" width="96">
       <a href="#rufatshikhiyev" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png" width="48" height="48" alt="Firebase" />
       </a>
-      <br>Kubernetes
+      <br>Firebase
     </td>
     <td align="center" width="96"> 
       <a href="#rufatshikhiyev" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="https://img.uxcel.com/tags/figma-1698087967030-2x.jpg" width="48" height="48" alt="Figma" />
       </a>
-      <br>Docker
-    </td>
-    <td align="center"  width="96">
-      <a href="#rufatshikhiyev">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center" width="96">
-      <a href="#rufatshikhiyev" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
-    </td>
+      <br>Figma
   </tr>
 </table>
