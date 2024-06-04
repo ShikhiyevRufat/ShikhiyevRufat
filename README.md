@@ -42,7 +42,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96"> 
       <a href="#rufatshikhiyev" >
-        <img src="https://img.uxcel.com/tags/figma-1698087967030-2x.jpg" width="48" height="48" alt="Figma" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoUX5LMRa7atIsNfl0nP3DaUaV4URhV0PHfA&s" width="48" height="48" alt="Figma" />
       </a>
       <br>Figma
   </tr>
