@@ -20,13 +20,13 @@ Here are some ideas to get you started:
       <a href="#rufatshikhiyev">
         <img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" width="48" height="48" alt="Flutter" />
       </a>
-      <br>Jsonnet
+      <br>Flutter
     </td>
     <td align="center" width="96">
       <a href="#rufatshikhiyev">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://mathiasfrohlich.gallerycdn.vsassets.io/extensions/mathiasfrohlich/kotlin/1.7.1/1581441165235/Microsoft.VisualStudio.Services.Icons.Default" width="48" height="48" alt="Kotlin" />
       </a>
-      <br>Python
+      <br>Kotlin
     </td>
     <td align="center" width="96">
       <a href="#rufatshikhiyev">
