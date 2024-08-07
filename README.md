@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Mobile development
 - 🌱 I’m currently learning Flutter and Kotlin
 - 💬 Ask me about developments
-- ⚡ Fun fact: In addition, I am a startup
+- ⚡ Fun fact: In addition, I am a entrepreneur
 
 <h2 align="left" id="rufatshikhiyev">Favorite Tech</h2>
 
